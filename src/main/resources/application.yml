@@ -1,0 +1,10 @@
+server:
+  port: 911
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: Yasuomvp131213
+    url: jdbc:mysql://localhost:3306/pas
+    type: com.zaxxer.hikari.HikariDataSource
